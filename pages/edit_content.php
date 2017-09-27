@@ -7,12 +7,7 @@
              $message= $obj_student->update_data_info($_POST);
             
         }
-        
-
-
 ?>
-
-
 
 
 <section class="mainleft">
